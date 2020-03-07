@@ -1,7 +1,6 @@
 const cookieParser = require('cookie-parser');
 const cors = require('cors');
 const bodyParser = require('body-parser');
-var express = require('express');
 const app = require('express')();
 const portValidation = require('./utils/port_validator');
 require('dotenv').config();
@@ -44,5 +43,5 @@ app.use(function(err, req, res, next) {
 });
 
 module.export = app.listen(port, function(){
-    console.log('Server Running on port '+port+env);
+    console.log('Server Running on port:'+port+" env="+env);
 });
