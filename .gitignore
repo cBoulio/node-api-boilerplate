@@ -1,3 +1,7 @@
+# Enbironment Variables
+# .env -- REMOVE IN BOILER PLATER
+
+
 # Logs
 logs
 *.log
