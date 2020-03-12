@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="320" alt="Nest Logo" /></a>
+  <a href="https://nodejs.org/en/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="320" alt="Node Logo" /></a>
 </p>
 
 # node-api-boilerplate
